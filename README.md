@@ -22,7 +22,8 @@
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" />
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode"/ >
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" />
-<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" />                                                                                                              
+<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" />   
+<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"/ >
 </div>
 
 <h4>Some things about me:</h4>
@@ -31,6 +32,8 @@
 - 😸 100% cat lover
 - 🌱 100% plant lover
 - ⚡ I am highly self-motivated, enthusiastic and always willing to learn more
-
-
-
+                                                                                                                                
+                                                                                                                                
+<h4>Contact me</h4>
+                                                                                                                                
+<a href="https://www.linkedin.com/in/nathalia-esthevlana/"><img height="40em" width="37em" target="blanket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
