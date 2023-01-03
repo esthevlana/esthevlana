@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=esthevlana&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=esthevlana&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
-<h4>🔧 Tools and Languages</h4>
+<h4>🔧 Tools and languages that I am improving</h4>
 
 <div>
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" />
@@ -25,6 +25,10 @@
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" />   
 <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm"/ >
 </div>
+                                                                                                                                
+<h4>👀 What I am looking forward to learn</h4>
+                                                                                                                                
+<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" /> <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
 
 <h4>✨ Some things about me:</h4>
 
@@ -37,3 +41,4 @@
 <h4>📫 Contact me</h4>
                                                                                                                                 
 <a href="https://www.linkedin.com/in/nathalia-esthevlana/"><img height="40em" width="37em" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:esthevlana@gmail.com"><img height="40em" width="37em" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
