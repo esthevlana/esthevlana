@@ -28,7 +28,7 @@
                                                                                                                                 
 <h4>👀 What I am looking forward to learn</h4>
                                                                                                                                 
-<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" /> <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
+<img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" /> <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="next.js" /> <img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" />
 
 <h4>✨ Some things about me:</h4>
 
