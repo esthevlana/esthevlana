@@ -41,5 +41,5 @@
                                                                                                                                 
 <h4>📫 Contact me</h4>
                                                                                                                                 
-<a href="https://www.linkedin.com/in/nathalia-esthevlana/"><img height="40em" width="37em" target="_blank" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="mailto:esthevlana@gmail.com"><img height="40em" width="37em" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
+<a href="https://www.linkedin.com/in/nathalia-esthevlana/" target="_blank"><img height="40em" width="37em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+<a href="mailto:esthevlana@gmail.com" target="_blank"><img height="40em" width="37em" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" /></a>
