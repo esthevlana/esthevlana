@@ -3,7 +3,7 @@
 <h3 align="center">I'm Nathália Esthevlana, a junior full-stack web developer currently living in Portugal</h3>
 <br>
 <div align="center">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=esthevlana&show_icons=true&theme=radical"/> <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esthevlana&layout=compact&langs_count=16&theme=radical"/>
+<img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=esthevlana&show_icons=true&theme=radical"/> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esthevlana&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
 <h4>🔧 Tools and languages that I am improving</h4>
