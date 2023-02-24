@@ -4,6 +4,8 @@
 <br>
 <div align="center">
 <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=esthevlana&show_icons=true&theme=radical"/> <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=esthevlana&layout=compact&langs_count=16&theme=radical"/>
+<br/><br/>
+<img src="https://www.codewars.com/users/esthevlana/badges/large" />
 </div>
 
 <h4>🔧 Tools and languages that I am improving</h4>
